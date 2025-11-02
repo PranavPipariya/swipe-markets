@@ -1,0 +1,17 @@
+.env
+.env.*
+*.env
+
+node_modules
+.next
+out
+dist
+
+artifacts
+cache
+broadcast
+coverage
+typechain-types
+
+.DS_Store
+*.log
