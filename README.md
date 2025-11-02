@@ -27,6 +27,13 @@ This repo uses the Scaffold-ETH 2 stack:
 You can run this locally, deploy your own markets, and immediately play with fake ETH on localhost or a testnet.
 
 ---
+##  System Architecture
+
+The diagram below shows how the smart contract, UI, and wallet interact:
+
+![Swipe Markets Architecture](sys.png)
+
+
 
 ## Core ideas
 
