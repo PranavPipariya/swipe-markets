@@ -176,12 +176,13 @@ This will install dependencies for both `packages/hardhat` and `packages/nextjs`
 
 ---
 
+Chnage MY_ADDR to your address in packages/hardhat/deploy/00_deploy_your_contract.ts
+
 ## 2. Run a local blockchain
 
 In a separate terminal tab:
 
 ```bash
-cd packages/hardhat
 yarn chain
 ```
 
@@ -196,7 +197,6 @@ Keep that running.
 Open a **second** terminal tab:
 
 ```bash
-cd packages/hardhat
 yarn deploy
 ```
 
