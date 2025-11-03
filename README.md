@@ -2,7 +2,7 @@
 
 Leverage-on-swipe prediction markets - swipe to place bets.
 
-Demo video: [https://youtu.be/aQY6ZULaLfo](https://youtu.be/aQY6ZULaLfo)
+Demo video: [https://youtu.be/F7x7Jm7bWOs](https://youtu.be/F7x7Jm7bWOs)
 
 ---
 
